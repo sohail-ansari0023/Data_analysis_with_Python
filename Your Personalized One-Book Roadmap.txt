@@ -1,0 +1,57 @@
+Your Personalized One-Book Roadmap
+
+Stage 1 — Statistics for Data (2 weeks)
+
+✅ You already know stats, so this is a quick calibration, not a deep grind.
+
+📖 Book: Think Stats — Allen B. Downey (Free PDF)
+
+Why: It's stats through Python code — bridges your existing Python + stats knowledge directly into data thinking
+Focus chapters: Distributions, Hypothesis Testing, Regression
+Goal: Finish it in 2 weeks at 4+ hrs/day — very doable
+
+
+Stage 2 — Python for Data Analysis (3 weeks)
+
+Your Python OOP skills make this fast to absorb.
+
+📖 Book: Python Data Science Handbook — Jake VanderPlas (Free online)
+
+Why: Covers NumPy, Pandas, Matplotlib, and Scikit-Learn — the complete analyst toolkit in one place
+Code everything as you read — don't just read passively
+Goal: 3 weeks, one library per week
+
+
+Stage 3 — SQL (2 weeks)
+📖 Book: Learning SQL — Alan Beaulieu (Archive.org — free)
+
+Why: Most rigorous free SQL book available. Covers joins, subqueries, window functions — exactly what DA jobs test
+Supplement with SQLZoo for hands-on practice daily
+Goal: 2 weeks, then write 10 real queries on a dataset you care about
+
+
+Stage 4 — Data Visualization (2 weeks)
+📖 Book: Fundamentals of Data Visualization — Claus Wilke (Free online at clauswilke.com/dataviz)
+
+Why: Teaches the thinking behind good visuals, not just syntax — this is what separates average analysts from sharp ones
+Apply every concept in Python (Matplotlib / Seaborn / Plotly)
+Goal: 2 weeks, build a visual portfolio of 5–6 charts
+
+
+Stage 5 — Machine Learning Foundations (4 weeks)
+📖 Book: An Introduction to Statistical Learning (ISLR) — James, Witten, Hastie, Tibshirani (Free PDF at statlearning.com)
+
+Why: The gold-standard ML textbook — rigorous but accessible, with R and Python labs
+Focus: Chapters 2–6 (regression, classification, resampling, model selection)
+Goal: 4 weeks, implement each chapter's lab in Python
+
+
+🗓️ Master Timeline (13 Weeks / ~3 Months)
+WeekStageBookDaily Focus1–2StatsThink Stats1 chapter + code exercises3–5Python/DataPython DS Handbook1 library/week + mini project6–7SQLLearning SQL1 chapter + SQLZoo drills8–9VisualizationFundamentals of DataVizRead + replicate charts in Python10–13MLISLR1 chapter + lab implementation
+
+⚡ Rules to Live By During This Plan
+
+Code every single day — even 20 lines counts
+After each stage, build one mini-project using that skill on a real dataset from Kaggle
+Never move forward without finishing — depth beats breadth
+Track your progress in a simple Notion page or GitHub README

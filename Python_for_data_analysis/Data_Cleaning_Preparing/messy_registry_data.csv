@@ -1,0 +1,11 @@
+Carrier_ID,Company Name,Registration_Date,Fleet_Size,Contact_Number,HQ_Location,Insurance_Status,Notes
+MC-1001,  Apex Logistics LLC, 12-05-2023, 15 trucks, (555) 123-4567, "New York, NY", Active, 
+MC-1002,Global Freight Co , 2023/04/18, 42, +1-555-987-6543, chicago IL, active, "Safety audit pending"
+mc-1003,Swift Transport, 01-15-24, Five, 555.555.0199, "Los Angeles; CA", Pending, 
+MC-1001,  Apex Logistics LLC, 12-05-2023, 15 trucks, (555) 123-4567, "New York, NY", Active, "Duplicate entry"
+,Desert Haulers Inc., 11/11/2022, 8, , Phoenix AZ, EXPIRED, 
+MC-1005, Northern Routes LTD, 09-30-2023, 100+, 555-111-2222, Seattle WA, Active, 
+MC-1006,East Coast Transit, , twelve, (555) 333-4444, "Miami, FL", , "Missing reg date"
+MC-1007,  horizon express, 24-01-2024, 3, +1 555 777 8888, "Denver, CO", aCTIVE, 
+MC-1008,Titan Movers, 03/05/2021, NaN, 5558889999, "Dallas TX", Canceled, "Check DOT number"
+MC-1009, , 10-10-2023, 1, , "Austin, TX", Active, "Owner operator"
